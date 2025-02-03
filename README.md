@@ -4,7 +4,7 @@ Ce dossier Repository est lié au cours `Nom final de la formation`. Le cours en
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
-DESCRIPTION DE LA FORMATION
+Madjid Khichane vous propose de découvrir la bibliothèque PyTorch. Après avoir évoqué les prérequis, vous découvrirez les avantages de PyTorch et ses applications. Vous apprendrez à l'installer via Anaconda et à créer des environnements virtuels. Les tensors, fondements de PyTorch, sont expliqués, de leur création à leur manipulation, ainsi que les opérations mathématiques et d'accès. Vous verrez aussi le calcul différentiel avec Autograd pour la rétropropagation, vous pratiquerez l'estimation de fonctions linéaires et la création de réseaux de neurones. Puis, évaluez et déployez vos modèles avant de conclure sur les pistes pour aller plus loin avec PyTorch et le deep learning.
 
 ## Instructions
 
