@@ -32,9 +32,9 @@ La branche master correspond au code à la fin de la formation.
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
+[lil-course-url]: https://www.linkedin.com/learning/l-essentiel-de-pytorch-pour-le-deep-learning
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHsc4ZEjXUL7w/learning-public-crop_675_1200/0/1712828306687?e=2147483647&v=beta&t=yL5D2A_ywPbSBA2ZtrR_RKM_pC5OI2erLm9yVDBzRhU
-[lil-URL-trainer]: https://
+[lil-URL-trainer]: https://www.linkedin.com/learning/instructors/madjid-khichane
 
 [1]: # (End of FR-Instruction ###############################################################################################)
 
