@@ -21,7 +21,7 @@ La branche master correspond au code à la fin de la formation.
 
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
    - Un interpréteur Python
-   - Les bibliothèques de dépendances des exemples à installer avec pip install ou tout autre outil
+   - Les bibliothèques de dépendances des exemples sont à installer avec pip install ou tout autre outil
 2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
 
 
